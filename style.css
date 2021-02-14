@@ -1,0 +1,44 @@
+
+    #style{
+        text-align: left;
+        background-color: white ;
+        height: 850px;
+        width: 750px;
+        margin: auto;
+        border: solid 1px #ccc;
+        border-radius: 40px;
+        padding:8px;
+        color: darkblue;
+    }
+
+#home{
+    padding: 15px;
+    font-size:17px;
+    border: solid #ccc;
+    border-radius: 7px;
+    
+}
+
+
+#bar3{
+    width: 460px;
+    border: solid 1px #ccc;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#smoke{
+    background-color: khaki;
+    width: 460px;
+    border-radius: 20px;
+    padding: 10px;
+    border: solid 1px #ccc;
+}
+
+
+#open{
+    background-color: lawngreen;
+    width: 460px;
+    border: solid 1px #ccc;
+    border-radius: 20px;
+}
